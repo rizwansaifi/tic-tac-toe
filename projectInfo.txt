@@ -1,0 +1,1 @@
+In this project we learnt basics of react , two way binding , driving values from state instead of creating new unnecessary states 
